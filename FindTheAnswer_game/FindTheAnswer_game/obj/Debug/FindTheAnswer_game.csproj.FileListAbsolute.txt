@@ -1,0 +1,11 @@
+C:\Users\inces\source\repos\FindTheAnswer_game\FindTheAnswer_game\bin\Debug\FindTheAnswer_game.exe.config
+C:\Users\inces\source\repos\FindTheAnswer_game\FindTheAnswer_game\bin\Debug\FindTheAnswer_game.exe
+C:\Users\inces\source\repos\FindTheAnswer_game\FindTheAnswer_game\bin\Debug\FindTheAnswer_game.pdb
+C:\Users\inces\source\repos\FindTheAnswer_game\FindTheAnswer_game\obj\Debug\FindTheAnswer_game.csproj.AssemblyReference.cache
+C:\Users\inces\source\repos\FindTheAnswer_game\FindTheAnswer_game\obj\Debug\FindTheAnswer_game.Form1.resources
+C:\Users\inces\source\repos\FindTheAnswer_game\FindTheAnswer_game\obj\Debug\FindTheAnswer_game.Properties.Resources.resources
+C:\Users\inces\source\repos\FindTheAnswer_game\FindTheAnswer_game\obj\Debug\FindTheAnswer_game.csproj.GenerateResource.cache
+C:\Users\inces\source\repos\FindTheAnswer_game\FindTheAnswer_game\obj\Debug\FindTheAnswer_game.csproj.CoreCompileInputs.cache
+C:\Users\inces\source\repos\FindTheAnswer_game\FindTheAnswer_game\obj\Debug\FindTheAnswer_game.exe
+C:\Users\inces\source\repos\FindTheAnswer_game\FindTheAnswer_game\obj\Debug\FindTheAnswer_game.pdb
+C:\Users\inces\source\repos\FindTheAnswer_game\FindTheAnswer_game\obj\Debug\FindTheAnswer_game.AddNewQuestionForm.resources

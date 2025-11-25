@@ -1,0 +1,8 @@
+﻿1|Alaska
+2|Ottawa
+3|Vatican City
+4|Russia
+5|Mars
+6|Japanese Yen
+7|206
+8|Piano
